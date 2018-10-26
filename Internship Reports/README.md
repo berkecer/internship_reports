@@ -1,2 +1,2 @@
 # academic
-Academic Writings
+Academic Writings(Reports) about my internships.
